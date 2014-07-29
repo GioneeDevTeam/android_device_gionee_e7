@@ -1,0 +1,27 @@
+# Camera
+lib/hw/camera.msm8974.so
+vendor/lib/libchromatix_gn_sunny_ov8835_common.so
+vendor/lib/libchromatix_gn_sunny_ov8835_default_video.so
+vendor/lib/libchromatix_gn_sunny_ov8835_gesture.so
+vendor/lib/libchromatix_gn_sunny_ov8835_liveshot.so
+vendor/lib/libchromatix_gn_sunny_ov8835_preview.so
+vendor/lib/libchromatix_gn_sunny_ov8835_snapshot.so
+vendor/lib/libchromatix_ov16825_common.so
+vendor/lib/libchromatix_ov16825_hfr_120fps.so
+vendor/lib/libchromatix_ov16825_hfr_60fps.so
+vendor/lib/libchromatix_ov16825_hfr_90fps.so
+vendor/lib/libchromatix_ov16825_liveshot.so
+vendor/lib/libchromatix_ov16825_liveshot_hd.so
+vendor/lib/libchromatix_ov16825_preview.so
+vendor/lib/libchromatix_ov16825_preview_hd.so
+vendor/lib/libchromatix_ov16825_snapshot.so
+vendor/lib/libchromatix_ov16825_snapshot_hd.so
+vendor/lib/libchromatix_ov16825_sport.so
+vendor/lib/libchromatix_ov16825_video.so
+vendor/lib/libchromatix_ov16825_video_hd.so
+vendor/lib/libchromatix_ov16825_zsl.so
+
+# NFC
+vendor/firmware/BCM20791B5_002.006.013.0011.0054_Generic_I2C_NCD_Unsigned_configdata.ncd:vendor/firmware/BCM20791B5_002.006.013.0011.0054_Generic_I2C_NCD_Unsigned_configdata.ncd
+vendor/firmware/BCM20791B5_002.006.013.0011.0054_Generic_PreI2C_NCD_Unsigned_configdata.ncd:vendor/firmware/BCM20791B5_002.006.013.0011.0054_Generic_PreI2C_NCD_Unsigned_configdata.ncd
+
